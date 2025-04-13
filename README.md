@@ -25,7 +25,7 @@ conda env create -f environment.yml
 
 ### 5. Activate the environment
 ```bash
-conda activate healpy-env
+conda activate CMB
 ```
 
 ### 6. Launch Jupyter Notebook
